@@ -1,0 +1,14 @@
+{
+  "installed": {
+    "client_id": "1086027117394-fdfli94bhc565qlaji2bv4gks8pgvf5m.apps.googleusercontent.com",
+    "project_id": "model-osprey-276712",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "GE63IvOsw2xcoFIo4GevHIvK",
+    "redirect_uris": [
+      "urn:ietf:wg:oauth:2.0:oob",
+      "http://localhost"
+    ]
+  }
+}
