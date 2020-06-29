@@ -11,7 +11,7 @@ const TOKEN_DIR =
 const TOKEN_PATH = TOKEN_DIR + "youtube-updater.json";
 
 const youtube = google.youtube("v3");
-const VIDEO_ID = "mDBFZGbBxhg";  
+const VIDEO_ID = "mDBFZGbBxhg"; // <======= thay id của video nha 
 
 // Load client secrets from a local file.
 
